@@ -26,3 +26,4 @@ I have classified these students into three categories, "good", "fair", and "poo
      - 5.7 Sochastic Gradient Descent Classifier
      - 5.8 Model Selection
 6. Summary
+![kids](https://user-images.githubusercontent.com/32555702/37250835-ffa33bcc-24b9-11e8-8b0f-f5275640cd27.png)
